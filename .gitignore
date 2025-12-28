@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+
+# Nested project dependencies
+vastu-heritage-dwell/node_modules/
+
+# Editor settings and OS files
+.vscode/
+.DS_Store
+
+# Backup of nested repo .git
+vastu-heritage-dwell/.git.bak
+
+# Build outputs
+/dist
+/build
+
+# Vite cache
+**/.vite
+
+# Env files
+.env
+.env.local
+.env.*.local
