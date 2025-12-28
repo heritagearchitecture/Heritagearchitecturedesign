@@ -22,4 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-vastu-heritage-dwell/
+
+# Backup files
+*.git.bak
+.git.bak
