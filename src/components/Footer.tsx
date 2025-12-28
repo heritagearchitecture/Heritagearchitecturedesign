@@ -84,7 +84,7 @@ export const Footer = () => {
                 <li key={link.href}>
                   <Link
                     to={link.href}
-                    className="text-footer-text/90 hover:text-primary transition-colors inline-block py-1 min-h-[44px] flex items-center"
+                    className="text-footer-text/90 hover:text-primary transition-colors py-1 min-h-[44px] flex items-center"
                   >
                     {link.label}
                   </Link>
@@ -103,7 +103,7 @@ export const Footer = () => {
                 <li key={link.href}>
                   <Link
                     to={link.href}
-                    className="text-footer-text/90 hover:text-primary transition-colors inline-block py-1 min-h-[44px] flex items-center"
+                    className="text-footer-text/90 hover:text-primary transition-colors py-1 min-h-[44px] flex items-center"
                   >
                     {link.label}
                   </Link>
